@@ -153,11 +153,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(left bottom , circle cover , rgb(68, 218, 143) 31% , rgb(0, 0, 0) 61%);
-background: -o-radial-gradient(left bottom , circle cover , rgb(68, 218, 143) 31% , rgb(0, 0, 0) 61%);
-background: -ms-radial-gradient(left bottom , circle cover , rgb(68, 218, 143) 31% , rgb(0, 0, 0) 61%);
-background: -moz-radial-gradient(left bottom , circle cover , rgb(68, 218, 143) 31% , rgb(0, 0, 0) 61%);
-background: -webkit-radial-gradient(left bottom , circle cover , rgb(68, 218, 143) 31% , rgb(0, 0, 0) 61%);
+	background: radial-gradient(center bottom , circle cover , rgb(68, 218, 143) 35% , rgb(0, 0, 0) 92%);
+background: -o-radial-gradient(center bottom , circle cover , rgb(68, 218, 143) 35% , rgb(0, 0, 0) 92%);
+background: -ms-radial-gradient(center bottom , circle cover , rgb(68, 218, 143) 35% , rgb(0, 0, 0) 92%);
+background: -moz-radial-gradient(center bottom , circle cover , rgb(68, 218, 143) 35% , rgb(0, 0, 0) 92%);
+background: -webkit-radial-gradient(center bottom , circle cover , rgb(68, 218, 143) 35% , rgb(0, 0, 0) 92%);
 }
 
 
